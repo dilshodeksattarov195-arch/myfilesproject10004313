@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsync",
+        "uuid": 7638323,
+        "checksum": "ir3dqi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
